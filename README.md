@@ -21,5 +21,5 @@ Seyahat Acenteliği
 -Konaklama<br>
 -Faturalandırma<br>
 
-
-
+![alt text](https://github.com/Meryem-Ezber/Ticket-HolidaySystem/blob/master/Fotog%CC%86raf1.png)
+![alt text](https://github.com/Meryem-Ezber/Ticket-HolidaySystem/blob/master/Fotog%CC%86raf2.png)
